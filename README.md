@@ -1,6 +1,6 @@
 # 🤖 Bot Battlr - Build Your Bot Army
 
-![Bot Battlr Screenshot](./public/bot-battlr-screenshot.png) *[Add screenshot later]*
+
 
 A React web application where you can browse, enlist, and manage an army of unique bots. Built with React, React Hooks, and a JSON-server backend.
 

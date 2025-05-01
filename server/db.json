@@ -1,0 +1,104 @@
+{
+    "bots": [
+      {
+        "id": 101,
+        "name": "wHz-93",
+        "health": 94,
+        "damage": 20,
+        "armor": 63,
+        "bot_class": "Support",
+        "catchphrase": "1010010101001101100011000111101",
+        "avatar_url": "https://robohash.org/nostrumrepellendustenetur.png?size=300x300&set=set1"
+      },
+      {
+        "id": 102,
+        "name": "RyM-66",
+        "health": 86,
+        "damage": 36,
+        "armor": 77,
+        "bot_class": "Medic",
+        "catchphrase": "0110011100000100011110100110011000011001",
+        "avatar_url": "https://robohash.org/quidemconsequaturaut.png?size=300x300&set=set1"
+      },
+      {
+        "id": 103,
+        "name": "XJ-9",
+        "health": 88,
+        "damage": 42,
+        "armor": 65,
+        "bot_class": "Assault",
+        "catchphrase": "Engaging combat protocols",
+        "avatar_url": "https://robohash.org/assaultbot-xj9.png?size=300x300&set=set1"
+      },
+      {
+        "id": 104,
+        "name": "Guardian-7",
+        "health": 120,
+        "damage": 15,
+        "armor": 95,
+        "bot_class": "Defender",
+        "catchphrase": "Protection mode activated",
+        "avatar_url": "https://robohash.org/defender-guardian.png?size=300x300&set=set1"
+      },
+      {
+        "id": 105,
+        "name": "Captain-45",
+        "health": 100,
+        "damage": 50,
+        "armor": 80,
+        "bot_class": "Captain",
+        "catchphrase": "Leading the charge",
+        "avatar_url": "https://robohash.org/captain-bot-45.png?size=300x300&set=set1"
+      },
+      {
+        "id": 106,
+        "name": "Necro-0",
+        "health": 75,
+        "damage": 60,
+        "armor": 45,
+        "bot_class": "Witch",
+        "catchphrase": "Dark circuits humming",
+        "avatar_url": "https://robohash.org/witch-bot-necro.png?size=300x300&set=set1"
+      },
+      {
+        "id": 107,
+        "name": "Triage-88",
+        "health": 90,
+        "damage": 10,
+        "armor": 70,
+        "bot_class": "Medic",
+        "catchphrase": "Healing systems online",
+        "avatar_url": "https://robohash.org/medic-triage.png?size=300x300&set=set1"
+      },
+      {
+        "id": 108,
+        "name": "Bolt-99",
+        "health": 70,
+        "damage": 55,
+        "armor": 60,
+        "bot_class": "Assault",
+        "catchphrase": "Fast and furious",
+        "avatar_url": "https://robohash.org/assault-bolt99.png?size=300x300&set=set1"
+      },
+      {
+        "id": 109,
+        "name": "Buffer-3",
+        "health": 85,
+        "damage": 15,
+        "armor": 85,
+        "bot_class": "Support",
+        "catchphrase": "Optimizing systems",
+        "avatar_url": "https://robohash.org/support-buffer.png?size=300x300&set=set1"
+      },
+      {
+        "id": 110,
+        "name": "Fortress-1",
+        "health": 150,
+        "damage": 25,
+        "armor": 100,
+        "bot_class": "Defender",
+        "catchphrase": "Immovable object",
+        "avatar_url": "https://robohash.org/defender-fortress.png?size=300x300&set=set1"
+      }
+    ]
+  }
